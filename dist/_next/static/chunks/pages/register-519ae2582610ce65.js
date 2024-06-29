@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[495],{922:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/register",function(){return e(2124)}])},2124:function(n,u,e){"use strict";e.r(u);var r=e(5893);e(7294),u.default=function(){return(0,r.jsx)("div",{children:"register"})}}},function(n){n.O(0,[888,774,179],function(){return n(n.s=922)}),_N_E=n.O()}]);
